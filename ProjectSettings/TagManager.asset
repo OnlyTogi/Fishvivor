@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Yosun
+  - 1LvlTurtle
+  - 2LvlTurtle
+  - TopFrame
+  - MainFish
+  - 3LvlTurtle
+  - Location
+  - 4LvlTurtle
+  - 1LvlSword
+  - 2LvlSword
+  - 1LvlJelly
+  - OctoAttack
+  - 2LvlJelly
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 458005931
+    locked: 0
